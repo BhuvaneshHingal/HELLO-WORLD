@@ -2,7 +2,7 @@
 
 ***A repository for contributing a "HELLO WORLD" program in any programming languages you know.***
 
-## How to contribute
+## How to Contribute: 👨🏻‍💻
 
 1. Fork the project
 2. Make any changes in your forked repo
@@ -10,7 +10,7 @@
 
 Questions can be asked by raising an `Issue`.
 
-## How to clone repo and make changes locally
+## How to clone repo and make changes locally: ✂📋
 
 ```
   click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
@@ -22,7 +22,7 @@ Questions can be asked by raising an `Issue`.
   git clone https://github.com/yourGitHubUsername/HELLO-WORLD.git
 ```
 
-- switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor
+- switch to the cloned folder. This can be done with Git Bash or the integrated terminal in the VSCode editor
 
 ```
   cd HELLO-WORLD
