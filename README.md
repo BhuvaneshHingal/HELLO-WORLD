@@ -34,16 +34,16 @@ Questions can be asked by raising an `Issue`.
   git checkout -b <name of new branch>
 ```
 
-- Open the Contributors folder inside that create a folder of your Name. Add all the files of the HELLO WORLD program inside the folder of your name.
+- Open the Contributors folder inside that create a folder of your Name(*Your Name*). Add all the files of the HELLO WORLD program inside the folder of your name.
 
 - Stage your changes
   - For example, if you have added 1 file
     ``` 
-    git add ./Contributors/Hello.txt 
+    git add "./Contributors/*Your Name*/Hello.txt" 
     ```
   - If there are many files, to add all the files use 
     ``` 
-    git add ./Contributors/.
+    git add "./Contributors/*Your Name*/."
     ```
 
 - Commit the changes
