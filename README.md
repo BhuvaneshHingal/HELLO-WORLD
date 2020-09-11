@@ -1,6 +1,6 @@
 <img src="./resources/Hello World!.gif">
 
-***A repository for contributing a "HELLO WORLD" program in any programming languages you know.***
+***A repository for contributing a "HELLO WORLD" program in any of the programming languages you know.***
 
 ## How to Contribute: 👨🏻‍💻
 
