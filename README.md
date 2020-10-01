@@ -2,7 +2,7 @@
 
 ***A repository for contributing a "HELLO WORLD" program in any of the programming languages you know.***
 
-### How to Contribute: 👨🏻‍💻
+## How to Contribute: 👨🏻‍💻
 
 1. Fork the project.
 2. Make any changes in your forked repo
