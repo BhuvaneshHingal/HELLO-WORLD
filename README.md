@@ -3,9 +3,8 @@
 ***A repository for contributing a "HELLO WORLD" program in any of the programming languages you know.***
 
 ### How to Contribute: 👨🏻‍💻
-### bro u said any changes can be made so i made a change
 
-1. Fork the projects.
+1. Fork the project.
 2. Make any changes in your forked repo
 3. On this repo, click `Pull Requests` and raise a `Pull Request` selecting your fork on the right drop down
 
@@ -70,7 +69,6 @@ Questions can be asked by raising an `Issue`.
 
 ```
   Click on Pull Request
-  
 ```
 
 - Wait for your changes to be merged
