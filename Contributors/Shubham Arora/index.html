@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap" rel="stylesheet">
+    <style>
+
+        body
+        {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            position: relative;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        .container
+        {
+            display: flex;
+        }
+       
+        .box-1
+        {
+            background-color: #5a189a;
+            width: 50%;
+            height: 100vh;
+        }
+        .box-2
+        {
+            background-color: #5c677d;
+            width: 50%;
+            height: 100vh;
+        }
+
+        .txtcenter
+        {
+            width: 40%;
+            height: 20%;
+            text-transform: uppercase;
+            color: #fff;
+            font-size: 3rem;
+            position: absolute;
+            top: 50%;
+            left: 34%;
+            animation: pulse 1s infinite;
+        }
+
+        @keyframes pulse
+        {
+            0%
+            {
+                box-shadow: 0 0 0 0 rgba(90,24,154, 0.5);
+            }
+            100%
+            {
+                box-shadow: 0 0 0 30px rgba(90,24,154, 0);
+
+            }
+        }
+
+      
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="box-1"></div>
+    <div class="box-2"></div>
+</div>
+<div class="txtcenter">
+   Hello World!!
+</div>
+
+    <script src="./app.js"></script>
+</body>
+</html>
