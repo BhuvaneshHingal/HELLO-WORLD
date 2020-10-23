@@ -71,6 +71,6 @@ Questions can be asked by raising an `Issue`.
   Click on Pull Request
 ```
 
-- Wait for your changes to be merged
+- Wait for your changes to be merged.🤓
 
-- Voila! You successfully made a contribution. 😉
+- Voila! You successfully made a contribution. 😉🥳
