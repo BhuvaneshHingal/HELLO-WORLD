@@ -1,0 +1,6 @@
+# include <stdio.h>
+int main ()
+{
+print f("Hello-World");
+return 0;
+}
