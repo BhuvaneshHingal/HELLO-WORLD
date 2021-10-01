@@ -12,10 +12,3 @@ str2 = last.pack('c*')
 
  #Printing HELLO WORLD!
 puts str1 + ' ' + str2
-
-
-
-
-
-
-
