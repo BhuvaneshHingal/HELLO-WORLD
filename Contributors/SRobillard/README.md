@@ -10,4 +10,4 @@ Then compile with:
 
 This will generate an executable **hello_world** file that can be run with the following command:
 
-`./helloworld.` 
+`./hello_world.` 
